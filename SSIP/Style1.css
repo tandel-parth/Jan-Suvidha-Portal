@@ -1,0 +1,370 @@
+/* full header file css */
+body{
+    background-color: #FAF3E0;
+}
+.haderfile-of-uper-bar {
+    background-color: #FAF3E0;
+    height: 100px;
+    margin: -8px;
+    width: 100%;
+    display: block;
+}
+
+.azadi-ka-amrit-mahotsav {
+    float: left;
+}
+
+.telephone-image {
+    float: left;
+}
+
+.logo-leftside {
+    float: right;
+    margin-right: 8vh;
+}
+
+
+
+/* navigation bar css */
+.empty {
+    width: 8%;
+    background-color: blue;
+}
+
+.home-image {
+    width: 2.5vh;
+    margin-top: -5px;
+}
+
+.login-signin {
+    float: right;
+}
+
+.costum-background {
+    background-color: #EDC88E;
+    height: 50px;
+}
+
+.loginbutton {
+    background-color: #EDC88E;
+    border: none;
+}
+
+.loginbutton:active {
+    background-color: #EDC88E;
+    border: 1px solid #d0b180;
+}
+.navugation-bar{
+    width: 100%;
+}
+header{
+    display: grid;
+}
+.navigation-bar{
+    margin-top: 1vh;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.mainsec{
+        /* border: 5px solid green; */
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: 5px;
+        /* height: 450px; */
+        display: flex;
+}
+.fsec{
+    border: 7px solid #EDC88E;
+    float: left;
+    width: 65%;
+    max-height: 450px;
+    margin-right: 10vh;            
+}
+.ssec{
+    border: 7px solid #EDC88E;
+    float: right;
+    width: 30%;
+    height: 280px;
+}
+.f1sec{
+    /* border: 1.3px solid yellow; */
+    float: left;
+    width: 35%;
+    max-height: 350px;
+    /* margin-left: 10px; */
+}
+.f2sec{
+    /* border:1px solid saddlebrown; */
+    float: right;
+    width: 64%;
+    max-height: 350px;
+}
+.f11sec{
+    /* border: 1.3px solid blue;             */
+    float: left;
+    width: 30%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* align-items: center;
+    align-content: justify; */
+    /* padding-left: 5px; */
+}
+.f12sec{
+    /* border: 1.3px solid darkorange;             */
+    float: right;
+    width: 65%;
+}
+.f21sec{
+    /* border: 1px solid blue;      */
+    min-height: 80px;     
+    display: flex;
+    align-items: center;              
+    justify-content: center;
+}
+.f22sec{
+    /* border: 1.3px solid red;      */
+    display: flex;
+    justify-content: space-around;       
+}
+.f23sec{
+    /* border: 1.3px solid greenyellow;         */
+    display: flex;
+    justify-content: space-around;    
+}
+.ssech2{
+    display: flex;
+    align-items: center;              
+    justify-content: center;
+}
+.f11div{
+    /* border:1px solid black; */
+    display: flex;
+    /* align-items: center;               */
+    justify-content: center;
+    height: 54px;
+}
+
+
+.seclong{
+    margin-top: 10px;
+}
+
+.farmc{
+    /* border: 1px solid red; */
+    /* display: flex; */
+    display: inline;
+    background-color: lightgrey;
+}
+/* .farmer{
+    border: 1px solid green;
+} */
+.fcont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.womenc{
+    /* border: 1px solid red; */
+    display: flex;
+}
+/* .women{
+    border: 1px solid green;
+} */
+.wcont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.studc{
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: lightgrey;
+}
+/* .student{
+    border: 1px solid green;
+} */
+.scont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.seniorc{
+    /* border: 1px solid red; */
+    display: flex;
+}
+/* .seniorcitizen{
+    border: 1px solid green;
+} */
+.sccont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.handic{
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: lightgrey;
+}
+/* .handicapped{
+    border: 1px solid green;
+} */
+.hcont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+
+.seclong{
+    margin: 5vh;
+
+}
+.farmc{
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: lightgrey;
+}
+/* .farmer{
+    border: 1px solid green;
+} */
+.fcont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.womenc{
+    /* border: 1px solid red; */
+    display: flex;
+}
+/* .women{
+    border: 1px solid green;
+} */
+.wcont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.studc{
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: lightgrey;
+}
+/* .student{
+    border: 1px solid green;
+} */
+.scont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.seniorc{
+    /* border: 1px solid red; */
+    display: flex;
+}
+/* .seniorcitizen{
+    border: 1px solid green;
+} */
+.sccont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.handic{
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: lightgrey;
+}
+/* .handicapped{
+    border: 1px solid green;
+} */
+.hcont{
+    /* border: 1px solid powderblue; */
+    width: 100%;
+}
+.all-scheme-photo{
+    margin: 3vh;
+}
+
+  
+.footer-clean {
+padding:50px 0;
+background-color:#fff;
+color:#4b4c4d;
+}
+
+.footer-clean h3 {
+margin-top:0;
+margin-bottom:12px;
+font-weight:bold;
+font-size:16px;
+}
+
+.footer-clean ul {
+padding:0;
+list-style:none;
+line-height:1.6;
+font-size:14px;
+margin-bottom:0;
+}
+
+.footer-clean ul a {
+color:inherit;
+text-decoration:none;
+opacity:0.8;
+}
+
+.footer-clean ul a:hover {
+opacity:1;
+}
+
+.footer-clean .item.social {
+text-align:left;
+width: 200px;
+}
+
+@media (max-width:767px) {
+.footer-clean .item {
+text-align:center;
+padding-bottom:20px;
+}
+}
+
+@media (max-width: 768px) {
+.footer-clean .item.social {
+text-align:center;
+}
+}
+
+.footer-clean .item.social > a {
+font-size:24px;
+width:30px;
+height:30px;
+line-height:40px;
+display:inline-block;
+text-align:center;
+border-radius:50%;
+border:1px solid #ccc;
+margin-left:10px;
+margin-top:22px;
+color:inherit;
+opacity:0.75;
+}
+
+.footer-clean .item.social > a:hover {
+opacity:0.9;
+}
+
+@media (max-width:991px) {
+.footer-clean .item.social > a {
+margin-top:40px;
+}
+}
+
+@media (max-width:767px) {
+.footer-clean .item.social > a {
+margin-top:10px;
+}
+}
+
+.footer-clean .copyright {
+margin-top:14px;
+margin-bottom:0;
+font-size:13px;
+opacity:0.6;
+}
